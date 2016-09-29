@@ -6,4 +6,4 @@
 
 ## Contributing
 
-Please read the [contributing guide](./CONTRIBUTING.md)
+Please read the [contributing guide](CONTRIBUTING.md)
